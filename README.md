@@ -1,10 +1,16 @@
-### Hi there 👋
+[![Gmail Badge](https://img.shields.io/badge/-anoterhamid@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anotherhamid@gmail.com)](mailto:anotherhamid@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-HamidFaraji-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anotherhamid/)](https://www.linkedin.com/in/anotherhamid/)
+[![GitHub followers](https://img.shields.io/github/followers/HamidFaraji?label=Follow%20on%20Github&style=for-the-badge&logo=github)](https://github.com/HamidFaraji/?tab=follow)
+
+# Hi there! 👋🏻
+
+**GitHub Stats**
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=HamidFaraji&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamidFaraji)
 
 <!--
-**HamidFaraji/HamidFaraji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
